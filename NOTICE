@@ -1,0 +1,45 @@
+BYD VehicleModelLab
+Copyright 2026 HayStudio
+SPDX-License-Identifier: Apache-2.0
+
+项目许可证：LICENSE
+
+第三方软件
+
+Kotlin、Kotlin Coroutines
+JetBrains 及贡献者
+Apache-2.0
+https://github.com/JetBrains/kotlin
+https://github.com/Kotlin/kotlinx.coroutines
+
+AndroidX、Jetpack Compose、Material Components、Material Icons
+Android Open Source Project、Google 及贡献者
+Apache-2.0
+https://android.googlesource.com/platform/frameworks/support/
+https://github.com/material-components/material-components-android
+https://github.com/google/material-design-icons
+
+Gson 2.11.0
+Copyright 2008 Google Inc.
+Apache-2.0
+https://github.com/google/gson
+
+Guava ListenableFuture、Error Prone Annotations
+Google 及贡献者
+Apache-2.0
+https://github.com/google/guava
+https://github.com/google/error-prone
+
+构建与测试依赖
+
+Gradle Wrapper、Android Gradle Plugin：Apache-2.0
+JUnit 4.13.2：EPL-1.0
+JSON-java 20240303：Public Domain
+
+环境资源
+
+Poly Haven：CC0-1.0
+资源清单：vehicle-core/src/main/assets/environments/NOTICE.txt
+https://polyhaven.com/license
+
+外部模型、纹理、动画及着色器不适用本项目源码许可证。

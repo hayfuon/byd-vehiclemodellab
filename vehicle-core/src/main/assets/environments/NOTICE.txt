@@ -1,0 +1,17 @@
+环境照明资源
+来源：Poly Haven
+许可证：CC0-1.0
+https://polyhaven.com/license
+
+文件             原始资源
+
+autumn.genv      Autumn Park
+https://polyhaven.com/a/autumn_park
+
+snow.genv        Snowy Park 01
+https://polyhaven.com/a/snowy_park_01
+
+rain.genv        Overcast Industrial Courtyard
+https://polyhaven.com/a/overcast_industrial_courtyard
+
+处理：HDR 转换为移动端预过滤立方图及球谐照明数据。

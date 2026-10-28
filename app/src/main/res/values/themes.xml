@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VehicleLab" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#69D8FF</item>
+        <item name="colorPrimary">#69D8FF</item>
+        <item name="colorOnPrimary">#00212B</item>
+        <item name="colorSurface">#112332</item>
+        <item name="colorSurfaceContainer">#162D3E</item>
+        <item name="android:navigationBarColor">#071019</item>
+        <item name="android:statusBarColor">#071019</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
